@@ -32,6 +32,11 @@ becouse of responsive designe
     height: 400px;
     overflow: hidden;
   }
+  .horizontal_line {
+    margin: auto;
+    width: 60%;
+    padding: 10px;
+  }
   .list_of_references {
     margin: auto;
     width: 60%;
@@ -50,6 +55,11 @@ becouse of responsive designe
     width: 100%;
     height: 400px;
     overflow: hidden;
+  }
+  .horizontal_line {
+    margin: auto;
+    width: 100%;
+    padding: 10px;
   }
   .list_of_references {
     margin: auto;
